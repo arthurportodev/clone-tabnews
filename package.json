@@ -1,0 +1,24 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido durante os estudos do Curso.dev.",
+  "homepage": "https://github.com/arthurportodev/clone-tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/arthurportodev/clone-tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurportodev/clone-tabnews.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
